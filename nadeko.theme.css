@@ -1,0 +1,15 @@
+//META{"name":"NadekoTheme","description":"Nadeko best waifu","author":"theone9032","version":"1.0"}*//
+
+{} 
+
+.app {
+    background-image: url("https://imgur.com/hKLU9yZ.jpg") !important;
+    background-size: 1920px 1080px !important;
+    background-repeat: no-repeat !important;
+}
+.callout-backdrop {
+    opacity:1 !important;
+    background: url("https://imgur.com/hKLU9yZ.jpg");
+    background-size: cover;
+    background-position: center;
+}
